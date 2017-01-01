@@ -1,0 +1,1 @@
+Simple Dashboard Widget Creation Plugin for WordPress. Adds a widget with custom text to the dashboard. Great for Admin-only announcements or making a short README for  site contributors. Display basic help or link to more detailed information.
